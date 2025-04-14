@@ -1,0 +1,6 @@
+.CampoTexto{
+    border: 1px solid var(--cinza);
+    padding: 0.25rem 0.85rem;
+    width: 25rem;
+    border-radius: 5px;
+}
