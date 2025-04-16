@@ -15,7 +15,7 @@ Lista de Tarefas usando React.
 
 
 # Editando Itens: 
-![image](https://github.com/user-attachments/assets/604cca41-c17a-4bd2-82b1-9eca92de7cd8)
+![image](https://github.com/user-attachments/assets/604af0f9-7da5-4b17-a7c7-b9ae87b98c2d)
 
 
 # Sobre Nós:
