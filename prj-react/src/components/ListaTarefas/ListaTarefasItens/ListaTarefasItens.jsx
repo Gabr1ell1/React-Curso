@@ -1,6 +1,6 @@
 import style from './ListaTarefasItens.module.css';
 import { useState } from 'react';
-
+import { CampoTexto } from '../../CampoTexto';
 import { Botao, TIPO_BOTAO } from '../../Botao';
 import { UseAppContext } from '../../../hooks';
 
